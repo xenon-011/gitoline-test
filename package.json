@@ -1,0 +1,24 @@
+{
+  "name": "online-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenon-011/gitoline-test.git"
+  },
+  "author": "Viet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xenon-011/gitoline-test/issues"
+  },
+  "homepage": "https://github.com/xenon-011/gitoline-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
